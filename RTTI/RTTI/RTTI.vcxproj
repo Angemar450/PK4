@@ -110,10 +110,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="chomik.cpp" />
+    <ClCompile Include="kot.cpp" />
+    <ClCompile Include="pies.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="zwierz.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="chomik.h" />
+    <ClInclude Include="kot.h" />
+    <ClInclude Include="pies.h" />
     <ClInclude Include="zwierz.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

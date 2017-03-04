@@ -21,9 +21,27 @@
     <ClCompile Include="zwierz.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="chomik.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="kot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pies.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="zwierz.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="chomik.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="kot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pies.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
