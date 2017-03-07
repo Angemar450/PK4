@@ -1,0 +1,6 @@
+Stworzyæ klasê „zwierz” i zaimplementowaæ w niej wirtualn¹, publiczn¹ metodê „daj_glos”, która wypisuje w oknie konsoli „Nieznany zwierz”.
+Stworzyæ klasy „pies”, „kot” oraz „chomik” dziedzicz¹ce po klasie „zwierz”. Metoda „daj_glos” ma wypisaæ w oknie konsoli dŸwiêk charakterystyczny dla danego zwierza.
+Stworzyæ klasê „tabz”, reprezentuj¹c¹ tablicê oœmiu wskaŸników na zwierza. Zaimplementowaæ metodê „wypelnij”, która pozwala u¿ytkownikowi stworzyæ dowolnego zwierza i przypisaæ go do kolejnego wskaŸnika w tablicy (pod ka¿dym wskaŸnikiem ma znaleŸæ siê jakiœ zwierz – mo¿e byæ to równie¿ obiekt klasy bazowej).
+Wykorzystuj¹c operator typeid stworzyæ metodê wypisuj¹c¹ kolejno nazwy wszystkich klas obiektów umieszczonych pod wskaŸnikami tablicy.
+Wykorzystuj¹c operator typeid sprawiæ, by g³os da³y kolejno wszystkie: psy; koty; chomiki; niesprecyzowane zwierzaki.
+Wykorzystuj¹c mechanizm dynamic cast osi¹gn¹æ ten sam efekt jak w poleceniu powy¿ej, pomijaj¹c niesprecyzowane zwierzaki.
